@@ -1,4 +1,4 @@
-<h1 align="center">Movie Ticket Booking Portal</h1>
+<h1 align="center" color="red">Movie Ticket Booking Portal</h1>
 <br>
 <p align="left">This project is about booking the movie tickets which returns the seat number.</p>
 <p align="left">There are three types of seats respectively Premium,Classic and Economy.<.br>
