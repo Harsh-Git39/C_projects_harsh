@@ -1,4 +1,4 @@
-<h1 style color="red">Movie Ticket Booking Portal</h1>
+<h1 align="center" style="color:red;">Movie Ticket Booking Portal</h1>
 <br>
 <p align="left">This project is about booking the movie tickets which returns the seat number.</p>
 <p align="left">There are three types of seats respectively Premium,Classic and Economy.<.br>
@@ -6,6 +6,5 @@
                 <br>space is must between the two(0 1). For Password register just simply create the a text file named pass.txt and create a password as per requirement.
                 <br>Open any code editor any just give it a try...
 
-                <br>
                 Totally C based project, concepts used 
                 Arrays,file-handing,loops,strings,functions,conditional-statements,structures;
